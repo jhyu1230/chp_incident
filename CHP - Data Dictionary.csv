@@ -1,0 +1,21 @@
+﻿Name,Comment
+Incident ID,An integer value that uniquely identifies this incident within PeMS.
+CC Code,CC Code
+Incident Number,an integer incident number
+Timestamp,"Date and time of the incident with a format of MM/DD/YYYY HH24:MI:SS. For example 9/3/2013 13:58, indicating 9/3/2013 1:58 PM."
+Description,A textual description of the incident.
+Location,A textual description of the location.
+Area,"A textual description of the Area. For example, East Sac. Use CHP Area DMA mapping to get DMAs."
+Zoom Map,Zoom Map
+TB xy,Lat/lon in state plane. Available from 4/9/2009
+Latitude,Latitude
+Longitude,Longitude
+District,The District number
+County FIPS ID,The FIPS County identifier.
+City FIPS ID,The FIPS City identifier.
+Freeway Number,Freeway Number
+Freeway Direction,A string indicating the freeway direction.
+State Postmile,State Postmile
+Absolute Postmile,Absolute Postmile
+Severity,Severity
+Duration,Duration in Minutes
